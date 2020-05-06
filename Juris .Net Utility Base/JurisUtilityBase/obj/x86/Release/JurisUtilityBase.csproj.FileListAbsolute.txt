@@ -1,0 +1,146 @@
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.config
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.manifest
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.application
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.pdb
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojResolveAssemblyReference.cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.Cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe.manifest
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.application
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.pdb
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.config
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.manifest
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.application
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.pdb
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe.manifest
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.application
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.pdb
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS - Format Client Matter Names.exe.config
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS - Format Client Matter Names.exe.manifest
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS - Format Client Matter Names.application
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS - Format Client Matter Names.exe
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS - Format Client Matter Names.pdb
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS - Format Client Matter Names.exe.manifest
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS - Format Client Matter Names.application
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS - Format Client Matter Names.exe
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS - Format Client Matter Names.pdb
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS -Require Activity Codes.exe.config
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS -Require Activity Codes.exe.manifest
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS -Require Activity Codes.application
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS -Require Activity Codes.exe
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS -Require Activity Codes.pdb
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS -Require Activity Codes.exe.manifest
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS -Require Activity Codes.application
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS -Require Activity Codes.exe
+D:\Utilities Source\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS -Require Activity Codes.pdb
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS -Require Activity Codes.exe.config
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS -Require Activity Codes.exe.manifest
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS -Require Activity Codes.application
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS -Require Activity Codes.exe
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JPS -Require Activity Codes.pdb
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS -Require Activity Codes.exe.manifest
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS -Require Activity Codes.application
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS -Require Activity Codes.exe
+D:\Projects\JPS - Require Activity Codes\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JPS -Require Activity Codes.pdb
